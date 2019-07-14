@@ -1,0 +1,16 @@
+{
+  "name": "qubit",
+  "version": "1.0.0",
+  "description": "A poor man's quantum computer simulator and combinator library.",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
